@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/dsi--website-landing-page/static/js/main.e4259e4c.chunk.js",
-    "main.js.map": "/dsi--website-landing-page/static/js/main.e4259e4c.chunk.js.map",
+    "main.js": "/dsi--website-landing-page/static/js/main.b6850fc2.chunk.js",
+    "main.js.map": "/dsi--website-landing-page/static/js/main.b6850fc2.chunk.js.map",
     "runtime-main.js": "/dsi--website-landing-page/static/js/runtime-main.7594a607.js",
     "runtime-main.js.map": "/dsi--website-landing-page/static/js/runtime-main.7594a607.js.map",
     "static/js/2.3facde62.chunk.js": "/dsi--website-landing-page/static/js/2.3facde62.chunk.js",
@@ -23,6 +23,6 @@
   "entrypoints": [
     "static/js/runtime-main.7594a607.js",
     "static/js/2.3facde62.chunk.js",
-    "static/js/main.e4259e4c.chunk.js"
+    "static/js/main.b6850fc2.chunk.js"
   ]
 }
