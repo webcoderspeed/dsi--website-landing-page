@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/dsi--website-landing-page/static/js/main.e4259e4c.chunk.js",
+    "main.js.map": "/dsi--website-landing-page/static/js/main.e4259e4c.chunk.js.map",
+    "runtime-main.js": "/dsi--website-landing-page/static/js/runtime-main.7594a607.js",
+    "runtime-main.js.map": "/dsi--website-landing-page/static/js/runtime-main.7594a607.js.map",
+    "static/js/2.3facde62.chunk.js": "/dsi--website-landing-page/static/js/2.3facde62.chunk.js",
+    "static/js/2.3facde62.chunk.js.map": "/dsi--website-landing-page/static/js/2.3facde62.chunk.js.map",
+    "index.html": "/dsi--website-landing-page/index.html",
+    "static/js/2.3facde62.chunk.js.LICENSE.txt": "/dsi--website-landing-page/static/js/2.3facde62.chunk.js.LICENSE.txt",
+    "static/media/browser-panel.svg": "/dsi--website-landing-page/static/media/browser-panel.2cceacd1.svg",
+    "static/media/device-panel.svg": "/dsi--website-landing-page/static/media/device-panel.189e601d.svg",
+    "static/media/footergroup.b55061dc.svg": "/dsi--website-landing-page/static/media/footergroup.b55061dc.svg",
+    "static/media/hamburger.a308b3d5.svg": "/dsi--website-landing-page/static/media/hamburger.a308b3d5.svg",
+    "static/media/home.30fadd61.svg": "/dsi--website-landing-page/static/media/home.30fadd61.svg",
+    "static/media/logo.c121d774.svg": "/dsi--website-landing-page/static/media/logo.c121d774.svg",
+    "static/media/mail.00973f38.svg": "/dsi--website-landing-page/static/media/mail.00973f38.svg",
+    "static/media/media-shuffle.6b732375.svg": "/dsi--website-landing-page/static/media/media-shuffle.6b732375.svg",
+    "static/media/product.d4f89a02.svg": "/dsi--website-landing-page/static/media/product.d4f89a02.svg",
+    "static/media/service.49b67e3c.svg": "/dsi--website-landing-page/static/media/service.49b67e3c.svg",
+    "static/media/technology.0b289f20.svg": "/dsi--website-landing-page/static/media/technology.0b289f20.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7594a607.js",
+    "static/js/2.3facde62.chunk.js",
+    "static/js/main.e4259e4c.chunk.js"
+  ]
+}
